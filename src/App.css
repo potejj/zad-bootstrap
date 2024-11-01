@@ -1,0 +1,58 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 60px 0;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.hero-image {
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.activity h3,
+.leading-medicine h3,
+.doctors h3,
+.pricing h3,
+.testimonials h3 {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.doctor-card img,
+.testimonial-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-left: 20%;
+}
+
+.price {
+  font-size: 24px;
+  font-weight: 700;
+  color: #007bff;
+}
+
+.footer h4 {
+  font-weight: 700;
+}
+
+.footer a {
+  text-decoration: none;
+  color: inherit;
+}
+
